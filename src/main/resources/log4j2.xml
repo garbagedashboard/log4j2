@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="DEBUG">
 <Properties>
-<Property name="log-path">~/JPMC/EmailNotification/mylog4j</Property>
+<Property name="log-path">./mylog4j</Property>
 </Properties>
 <Appenders>
 <RollingFile name="RollingFile" fileName="${log-path}/myexample.log"
@@ -14,13 +14,18 @@ filePattern="${log-path}/myexample-%d{yyyy-MM-dd}-%i.log" >
 </Policies>
 <DefaultRolloverStrategy max="4"/>
 </RollingFile>
+ <SMTP name="Mail" subject="Error Log" to="dqx0915@hotmail.com" from="daden@daden1linux1.net"
+          smtpHost="localhost" smtpPort="9627" bufferSize="50">
+    </SMTP>
 </Appenders>
 <Loggers>
 <Logger name="root" level="debug" additivity="false">
 <appender-ref ref="RollingFile" level="debug"/>
+<appender-ref ref="Mail" level="debug"/>
 </Logger>
 <Root level="debug" additivity="false">
 <AppenderRef ref="RollingFile"/>
+<AppenderRef ref="Mail"/>
 </Root>
 </Loggers>
 </Configuration>
