@@ -1,0 +1,17 @@
+30/Mar/2017 18:30:43,763- App: Info : number is 100
+30/Mar/2017 18:30:43,769- App: Warning : number is 100
+30/Mar/2017 18:30:43,769- App: Debug : number is 100
+30/Mar/2017 18:30:43,769- App: Error : number is 100
+30/Mar/2017 18:30:43,769- App: Fatal : number is 100
+30/Mar/2017 18:30:43,769- App: Info : You chose a number < 100 
+30/Mar/2017 18:30:43,769- App: Warning : You chose a number < 100 
+30/Mar/2017 18:30:43,769- App: Debug : You chose a number < 100 
+30/Mar/2017 18:30:43,769- App: Error : You chose a number < 100 
+30/Mar/2017 18:30:43,769- App: Fatal : You chose a number < 100 
+30/Mar/2017 18:30:43,769- App: Info : Your number has the digit 0
+30/Mar/2017 18:30:43,769- App: Warning : Your number has the digit 0
+30/Mar/2017 18:30:43,770- App: Debug : Your number has the digit 0
+30/Mar/2017 18:30:43,770- App: Error : Your number has the digit 0
+30/Mar/2017 18:30:43,770- App: Fatal : Your number has the digit 0
+30/Mar/2017 18:30:43,770- App: Info : Your number has the digit 1
+30/Mar/2017 18:30:43,770- App: Warning : Your number has the digit 1

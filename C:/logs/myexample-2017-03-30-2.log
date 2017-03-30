@@ -1,0 +1,17 @@
+30/Mar/2017 18:30:43,770- App: Debug : Your number has the digit 1
+30/Mar/2017 18:30:43,775- App: Error : Your number has the digit 1
+30/Mar/2017 18:30:43,775- App: Fatal : Your number has the digit 1
+30/Mar/2017 18:30:43,775- App: Info : Your number has the digit 10
+30/Mar/2017 18:30:43,775- App: Warning : Your number has the digit 10
+30/Mar/2017 18:30:43,775- App: Debug : Your number has the digit 10
+30/Mar/2017 18:30:43,775- App: Error : Your number has the digit 10
+30/Mar/2017 18:30:43,775- App: Fatal : Your number has the digit 10
+30/Mar/2017 18:32:47,330- App: Info : number is 600
+30/Mar/2017 18:32:47,335- App: Warning : number is 600
+30/Mar/2017 18:32:47,335- App: Debug : number is 600
+30/Mar/2017 18:32:47,335- App: Error : number is 600
+30/Mar/2017 18:32:47,335- App: Fatal : number is 600
+30/Mar/2017 18:32:47,335- App: Info : You chose a number > 100 
+30/Mar/2017 18:32:47,335- App: Warning : You chose a number > 100 
+30/Mar/2017 18:32:47,335- App: Debug : You chose a number > 100 
+30/Mar/2017 18:32:47,335- App: Error : You chose a number > 100 

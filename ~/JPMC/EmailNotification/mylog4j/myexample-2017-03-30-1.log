@@ -1,0 +1,17 @@
+30/Mar/2017 18:33:06,092- App: Info : number is 600600
+30/Mar/2017 18:33:06,096- App: Warning : number is 600600
+30/Mar/2017 18:33:06,096- App: Debug : number is 600600
+30/Mar/2017 18:33:06,096- App: Error : number is 600600
+30/Mar/2017 18:33:06,096- App: Fatal : number is 600600
+30/Mar/2017 18:33:06,096- App: Info : You chose a number > 100 
+30/Mar/2017 18:33:06,096- App: Warning : You chose a number > 100 
+30/Mar/2017 18:33:06,096- App: Debug : You chose a number > 100 
+30/Mar/2017 18:33:06,096- App: Error : You chose a number > 100 
+30/Mar/2017 18:33:06,096- App: Fatal : You chose a number > 100 
+30/Mar/2017 18:33:06,096- App: Info : Your number has the digit 0
+30/Mar/2017 18:33:06,097- App: Warning : Your number has the digit 0
+30/Mar/2017 18:33:06,097- App: Debug : Your number has the digit 0
+30/Mar/2017 18:33:06,097- App: Error : Your number has the digit 0
+30/Mar/2017 18:33:06,097- App: Fatal : Your number has the digit 0
+30/Mar/2017 18:33:06,097- App: Info : Your number has the digit 6
+30/Mar/2017 18:33:06,103- App: Warning : Your number has the digit 6
